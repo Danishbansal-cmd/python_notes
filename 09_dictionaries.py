@@ -3,7 +3,7 @@ print(a)
 print(a[3])
 print(a.get(3))
 
-#create set using set() constructor
+#create dict using dict() constructor
 b = dict(fruit = "apple", he = "2nubmer", ha = "number")
 
 

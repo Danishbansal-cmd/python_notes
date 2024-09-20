@@ -9,7 +9,7 @@ setconstructor.add("apple")
 
 #to add the another set into the current
 #use the update() method
-# setconstructor.update(newset)
+setconstructor.update(newset)
 print("setconstructor",setconstructor)
 newset.intersection_update(setconstructor)
 newset3 = newset.intersection(setconstructor)

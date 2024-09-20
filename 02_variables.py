@@ -6,8 +6,8 @@ x, y = str(2), str("hi this is me")
 z = int(6)
 a = float(4)
 
-# print(a)
-# print(type(x))
+print(a)
+print(type(x))
 # print(type(y))
 # print(type(z))
 
